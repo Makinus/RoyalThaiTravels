@@ -1,0 +1,9 @@
+Free Delivery Text For Add to cart Top or Bottom in Shopify.
+{
+    "type": "checkbox",
+    "id": "show_freedelivery_selector",
+    "label": {
+        "en": "show freedeliveryselector",
+       },
+      "default": false
+    },
